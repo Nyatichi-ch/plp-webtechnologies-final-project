@@ -7,7 +7,6 @@ A simple static blog website about healthy living, built with HTML, CSS, and Jav
 - Home, About, Contact pages  
 - Three blog posts with full content (“Read More”)  
 - Hero image slider with fade transitions  
-- Animated logo (leaf + human figure)  
 - Hover effects on post cards and buttons  
 - Form validation on Contact page  
 
