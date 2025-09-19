@@ -33,6 +33,8 @@ healthy-living-blog/
 * Share a consistent layout/header/footer
 * Inclusive of at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
 
+* The github deployment link:  https://nyatichi-ch.github.io/plp-webtechnologies-final-project/
+
 
 
 
